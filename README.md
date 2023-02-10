@@ -1,0 +1,2 @@
+# Plakáty zbraní České zbrojovky
+Tento repozitář obsahuje několik plakátů zbraní České zbrojovky, které se mi povedlo sehnat. Všechny plakáty byly přeloženy z angličtiny do češtiny (fanouškovský neoficiální překlad). 
